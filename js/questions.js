@@ -55,6 +55,61 @@ let questions = [
       "Marquinhos"
     ]
   },
+  {
+    numb: 6,
+    question: "Ferrari e uma marca de qual pais?",
+    answer: "Italia",
+    options: [
+      "Portugual",
+      "França",
+      "Italia",
+      "Espanha"
+    ]
+  },
+  {
+    numb: 7,
+    question: "Em que ano foi afundado o titanic?",
+    answer: "1912",
+    options: [
+      "1915",
+      "1912",
+      "1910",
+      "1916"
+    ]
+  },
+  {
+    numb: 8,
+    question: "A França foi campeã da copa do mundo em 2018 contra quem",
+    answer: "Croácia",
+    options: [
+      "Croácia",
+      "Alemanha",
+      "Brasil",
+      "Argentina"
+    ]
+  },
+  {
+    numb: 4,
+    question: "Em que dia comemoramos o natal?",
+    answer: "25 de dezembro",
+    options: [
+      "22 de dezembro ",
+      "25 de dezembro",
+      "29 de dezembro",
+      "26 de dezembro"
+    ]
+  },
+  {
+    numb: 5,
+    question: "quem e o 10 da seleçao brasileira?",
+    answer: "Neymar",
+    options: [
+      "Neymar",
+      "Vinicius junior",
+      "Casemiro",
+      "Marquinhos"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
