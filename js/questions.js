@@ -89,25 +89,25 @@ let questions = [
     ]
   },
   {
-    numb: 4,
-    question: "Em que dia comemoramos o natal?",
-    answer: "25 de dezembro",
+    numb: 9,
+    question: "Em que mes comemoramos a páscoa?",
+    answer: "Abril",
     options: [
-      "22 de dezembro ",
-      "25 de dezembro",
-      "29 de dezembro",
-      "26 de dezembro"
+      "maio  ",
+      "dezembro",
+      "Abril",
+      "janeiro"
     ]
   },
   {
-    numb: 5,
-    question: "quem e o 10 da seleçao brasileira?",
-    answer: "Neymar",
+    numb: 10,
+    question: "Quantas bola de ouro tem o Ronaldinho?",
+    answer: "1",
     options: [
-      "Neymar",
-      "Vinicius junior",
-      "Casemiro",
-      "Marquinhos"
+      "2",
+      "4",
+      "1",
+      "3"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
