@@ -2,35 +2,35 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Quem fez o gol do titulo do corinthians no mundial 2012",
+    answer: "Guerreiro",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Roger guedes",
+      "Guerreiro",
+      "Cassio",
+      "Elias"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Em que ano o corinthians foi fundado",
+    answer: "1910",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "1915",
+      "1913",
+      "1910",
+      "1916"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual foi a ultima vez que o Brasil foi campeão da copa do mundo",
+    answer: "2002",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "2002",
+      "1994",
+      "2006",
+      "2014"
     ]
   },
   {
