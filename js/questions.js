@@ -46,13 +46,13 @@ let questions = [
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "quem e o 10 da seleçao brasileira?",
+    answer: "Neymar",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Neymar",
+      "Vinicius junior",
+      "Casemiro",
+      "Marquinhos"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
